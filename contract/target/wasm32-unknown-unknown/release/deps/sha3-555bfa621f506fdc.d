@@ -1,0 +1,11 @@
+/Users/iliashuianov/projects/near_projects/hello/contract/target/wasm32-unknown-unknown/release/deps/sha3-555bfa621f506fdc.rmeta: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/paddings.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/macros.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/reader.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/state.rs
+
+/Users/iliashuianov/projects/near_projects/hello/contract/target/wasm32-unknown-unknown/release/deps/libsha3-555bfa621f506fdc.rlib: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/paddings.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/macros.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/reader.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/state.rs
+
+/Users/iliashuianov/projects/near_projects/hello/contract/target/wasm32-unknown-unknown/release/deps/sha3-555bfa621f506fdc.d: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/paddings.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/macros.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/reader.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/state.rs
+
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/lib.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/paddings.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/macros.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/reader.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/state.rs:
