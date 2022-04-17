@@ -46859,7 +46859,7 @@ var _config = _interopRequireDefault(require("./config"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-const nearConfig = (0, _config.default)("development" || 'development');
+const nearConfig = (0, _config.default)('development');
 
 async function initContract() {
   // Initialize connection to the NEAR testnet
@@ -47150,7 +47150,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51339" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "54127" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
