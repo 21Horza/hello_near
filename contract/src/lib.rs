@@ -45,7 +45,7 @@ impl Welcome {
     pub fn get_greeting(&self, account_id: String) -> String {
         match self.messages.get(&account_id) {
             Some(greeting) => greeting,
-            None => "Hello, NEAR user".to_string(),
+            None => "NEAR user".to_string(),
         }
     }
 }
