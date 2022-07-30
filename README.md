@@ -28,4 +28,5 @@ How to use
 <img width="724" alt="Screenshot 2022-07-30 at 17 56 35" src="https://user-images.githubusercontent.com/81642088/181905302-947cec64-80c9-457b-ad56-39feff001ef9.png">
 
 2. Go ahead and change your name
-![NameGif](https://user-images.githubusercontent.com/81642088/181909735-7162969c-5c58-4ce4-9f60-8a6cc279bea3.gif)
+
+![NameGif (1)](https://user-images.githubusercontent.com/81642088/181909807-f3548b86-56c3-4820-ac4b-c46bf3be3de6.gif)
