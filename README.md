@@ -4,9 +4,7 @@ Hello, NEAR
 This APP is designed as a demonstration of basic greeting smart contract.
 Demo is available at https://21horza.github.io/hello_near/
 
-
-===========
-
+----
 
 Exploring The Code
 ==================
